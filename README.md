@@ -53,8 +53,8 @@ tensorflow > 1.13，不支持tf2.0， 使用的tf1.15
 训练3个epoch后：
 
 ```bash
-eval_precision = 0.923054
-eval_recall = 0.9331808
+eval_precision = 0.953054
+eval_recall = 0.9631808
 ```
 
 测试结果：
