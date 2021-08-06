@@ -18,10 +18,9 @@
 - [ALBert_zh](https://github.com/brightmart/albert_zh)
 
 ## Environment
-tensorflow > 1.13，不支持tf2.0， 使用的tf1.15
-4 核 CPU
-8.19 GB 显存 2080Ti × 1
-20 GB 内存
+tensorflow > 1.13，不支持tf2.0， 使用的tf1.15  
+4 核 CPU  
+8.19 GB 显存 2080Ti × 1  
 
 ## How to run the code
 
